@@ -31,12 +31,12 @@ Welcome to my website.
 
 **Willing to supervise doctoral students**
 
-I do not have funding for international students. If you are a Chinese student applying through the Bath-CSC scheme, please note that results are usually released in June. Only apply to me if you are fully committed to accepting the offer if successful.
+- I do not have funding for international students. If you are a Chinese student applying through the Bath-CSC scheme, please note that results are usually released in June. Only apply to me if you are fully committed to accepting the offer if successful.
 
-Occasionally, I may have funding for UK Home students through other channels. Feel free to ask.
+- Occasionally, I may have funding for UK Home students through other channels. Feel free to ask.
 
 **Contact**
 
-csjiezhang*gmail&com
+- csjiezhang*gmail&com
 
-jz2558*bath&ac&uk
+- jz2558*bath&ac&uk
