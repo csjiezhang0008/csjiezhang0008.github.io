@@ -28,18 +28,18 @@ author:
   bio              : "Senior Lecturer in Computer Science"
   employer         : "University of Bath"
   uri              : "https://researchportal.bath.ac.uk/en/persons/jie-zhang/"
-  email            : "csjiezhang&gmail*com" 
+  email            : "csjiezhang@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=LfPixcYAAAAJ&hl=en"
-  orcid            : "0000-0002-5348-7671"
+  orcid            : "https://orcid.org/0000-0002-5348-7671"
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "csjiezhang0008"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
