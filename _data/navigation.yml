@@ -9,7 +9,7 @@
 
 main:
 - title: "Publications"
-  url: https://dblp.org/pid/84/6889-8.html
+  url: "https://dblp.org/pid/84/6889-8.html"
 
   - title: "Talks"
     url: /talks/    
