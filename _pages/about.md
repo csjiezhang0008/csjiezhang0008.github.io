@@ -16,7 +16,7 @@ Welcome to my website.
 - Blockchain and decentralized technologies
 
 **Research lab**
-- **Algorithms, Markets and Agents (AMA) Lab** explores the foundations of intelligent decision-making and economic interaction in digital environments. We study algorithmic game theory, market and mechanism design, multi-agent systems, and decentralized technologies, with particular interests in AI-driven markets, LLM-based agents, data economies, and blockchain-enabled platforms. Our goal is to develop rigorous algorithms, mechanisms, and protocols that are efficient, trustworthy, and socially beneficial.
+- **Algorithms, Markets and Agents (AMA) Lab** explores the foundations of intelligent decision-making and strategic interaction in digital environments. We study algorithmic game theory, market and mechanism design, multi-agent systems, and decentralized technologies, with particular interests in AI-driven markets, LLM-based agents, data economies, and blockchain-enabled platforms. Our goal is to develop rigorous algorithms, mechanisms, and protocols that are efficient, trustworthy, and socially beneficial.
 
 **Recent publications**
 - Xiaotie Deng, Yanru Guan, Ningyuan Li, Zihe Wang, Jie Zhang, Selling Data as a Digital Good with Scaling Valuations, in the Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
