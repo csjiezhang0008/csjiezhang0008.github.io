@@ -23,28 +23,21 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "Zhang J 30488-0032 smaller.jpg"
+  name             : "Jie Zhang" 
+  bio              : "Senior Lecturer in Computer Science"
+  employer         : "University of Bath"
+  uri              : "https://researchportal.bath.ac.uk/en/persons/jie-zhang/"
+  email            : "csjiezhang&gmail*com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  academia         : "https://researchportal.bath.ac.uk/en/persons/jie-zhang/"
+  googlescholar    : "https://scholar.google.com/citations?user=LfPixcYAAAAJ&hl=en"
+  orcid            : "0000-0002-5348-7671"
+  links:
+     - label: "DBLP"
+       icon: "fas fa-book" 
+      url: "https://dblp.org/pid/84/6889-8.html"
 
 
   # Repositories and software development
