@@ -34,10 +34,6 @@ author:
   academia         : "https://researchportal.bath.ac.uk/en/persons/jie-zhang/"
   googlescholar    : "https://scholar.google.com/citations?user=LfPixcYAAAAJ&hl=en"
   orcid            : "0000-0002-5348-7671"
-  links:
-     - label: "DBLP"
-       icon: "fas fa-book" 
-      url: "https://dblp.org/pid/84/6889-8.html"
 
 
   # Repositories and software development
