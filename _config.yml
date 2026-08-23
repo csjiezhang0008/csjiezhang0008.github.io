@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jiezhang.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Jie Zhang" 
   bio              : "Senior Lecturer in Computer Science"
   employer         : "University of Bath"
