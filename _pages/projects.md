@@ -5,7 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Current Projects
+### Leverhulme Trust
+
+**Towards Practical Algorithmic Mechanism Design: Beyond the Worst-Case Analysis**
+
+Principal Investigator
+
+2022–2025
+
+---
 
 ### EPSRC
 
@@ -15,12 +23,6 @@ Principal Investigator
 
 2023–2024
 
----
 
-### Leverhulme Trust
 
-**Towards Practical Algorithmic Mechanism Design: Beyond the Worst-Case Analysis**
 
-Principal Investigator
-
-2022–2025
