@@ -11,8 +11,9 @@ Welcome to my website.
 
 **Research interests**
 - Algorithmic game theory
-- Multi-agent systems
-- Blockchain
+- Digital data market design
+- Multi-agent systems and LLM-based agents
+- Blockchain and decentralized technologies
 
 **Recent publications**
 - Xiaotie Deng, Yanru Guan, Ningyuan Li, Zihe Wang, Jie Zhang, Selling Data as a Digital Good with Scaling Valuations, in the Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
