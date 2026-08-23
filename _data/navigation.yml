@@ -9,25 +9,11 @@
 
 main:
   - title: "Publications"
-    url: "https://dblp.org/pid/84/6889-8.html"
-
-  - title: "Talks"
-    url: /talks/    
+    url: "https://dblp.org/pid/84/6889-8.html"   
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
