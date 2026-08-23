@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+- title: "Publications"
+  url: https://dblp.org/pid/84/6889-8.html
 
   - title: "Talks"
     url: /talks/    
