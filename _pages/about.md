@@ -15,6 +15,9 @@ Welcome to my website.
 - Multi-agent systems and LLM-based agents
 - Blockchain and decentralized technologies
 
+**Research lab**
+- **Algorithms, Markets and Agents (AMA) Lab** explores the foundations of intelligent decision-making and economic interaction in digital environments. We study algorithmic game theory, market and mechanism design, multi-agent systems, and decentralized technologies, with particular interests in AI-driven markets, LLM-based agents, data economies, and blockchain-enabled platforms. Our goal is to develop rigorous algorithms, mechanisms, and protocols that are efficient, trustworthy, and socially beneficial.
+
 **Recent publications**
 - Xiaotie Deng, Yanru Guan, Ningyuan Li, Zihe Wang, Jie Zhang, Selling Data as a Digital Good with Scaling Valuations, in the Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
 - Gennaro Auricchio, Jie Zhang, Designing Optimal Mechanisms to Locate Facilities with Insufficient Capacity for Bayesian Agents, in the Proceedings of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026).
