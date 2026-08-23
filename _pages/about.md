@@ -30,7 +30,7 @@ Welcome to my website.
 **Updates**
 - The 18th International Symposium on Algorithmic Game Theory (SAGT 2025) took place in Bath from September 2nd to 5th, 2025.
 
-**Willing to supervise doctoral students**
+**Funding for Doctoral Students**
 
 - I do not have funding for international students. If you are a Chinese student applying through the Bath-CSC scheme, please note that results are usually released in June. Only apply to me if you are fully committed to accepting the offer if successful.
 
