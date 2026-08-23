@@ -27,7 +27,7 @@ Welcome to my website.
 - Yan Liu, Bonan Ni, Weiran Shen, Zihe Wang, Jie Zhang, Stackelberg vs. Nash in the Lottery Colonel Blotto Game, in the Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).
 
 **Updates**
-- https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/ took place in Bath from September 2nd to 5th, 2025.
+- [The 18th International Symposium on Algorithmic Game Theory (SAGT 2025)] (https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/) took place in Bath from September 2nd to 5th, 2025.
 
 **Willing to supervise doctoral students**
 
