@@ -9,6 +9,10 @@ redirect_from:
 
 Welcome to my website.
 
+**Academic Journey**
+
+City University of Hong Kong (PhD) \rightarrow Harvard (visiting PhD) \rightarrow Aarhus (Postdoc) \rightarrow Oxford (Postdoc) \rightarrow University of Southampton (Assistant Professor) \rightarrow University of Bath (Associate Professor) 
+
 **Research interests**
 - Algorithmic game theory
 - Digital data market design
