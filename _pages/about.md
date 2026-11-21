@@ -39,10 +39,11 @@ City University of Hong Kong (PhD) → Harvard (visiting PhD) → Aarhus (Postdo
 
 **Prospective PhD Students**
 
-- I welcome enquiries from prospective PhD students interested in my research areas. Funding for international students is extremely limited. Chinese students applying through the Bath-CSC scheme should note that outcomes are typically announced in June and should contact me only if they would be prepared to accept an offer if successful. Funding for UK Home students occasionally becomes available through grants or other schemes; please get in touch to discuss opportunities.
+- Funding for UK Home students occasionally becomes available through grants or other schemes.
+- Funding for international students is extremely limited. Chinese students applying through the Bath-CSC scheme should note that outcomes are typically announced in June and should contact me only if they would be prepared to accept an offer if successful. 
 
 **Contact**
 
 - csjiezhang*gmail&com
 
-- jz2558*bath&ac&uk
+- jz2558&bath*ac&uk
