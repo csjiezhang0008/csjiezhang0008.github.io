@@ -35,7 +35,7 @@ City University of Hong Kong (PhD) → Harvard (visiting PhD) → Aarhus (Postdo
 - Yan Liu, Bonan Ni, Weiran Shen, Zihe Wang, Jie Zhang, Stackelberg vs. Nash in the Lottery Colonel Blotto Game, in the Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).
 
 **Updates**
-- The 18th International Symposium on Algorithmic Game Theory (SAGT 2025) took place in Bath from September 2nd to 5th, 2025.
+- Co-chaired the <a href="https://dblp.org/db/conf/sagt/sagt2025.html" target="_blank" rel="noopener noreferrer">18th International Symposium on Algorithmic Game Theory (SAGT 2025)</a> with Ron Lavi, held in Bath from 2 to 5 September 2025.
 
 **Prospective PhD Students**
 
